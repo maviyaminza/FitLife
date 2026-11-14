@@ -12,6 +12,10 @@ npx serve .
 
 Open the shown local URL on your phone, or open that same URL from a phone on the same Wi-Fi using your computer's local network address. To install, use **Add to Home Screen** in the mobile browser.
 
+## Live app
+
+The GitHub Pages deployment workflow publishes the app at <https://maviyaminza.github.io/FitLife/> after GitHub Pages is enabled for the repository with **Settings → Pages → Build and deployment → GitHub Actions**.
+
 ## Included
 
 - Mobile-first onboarding, profile setup, and selectable fitness goals
