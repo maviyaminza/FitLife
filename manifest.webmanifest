@@ -1,0 +1,10 @@
+{
+  "name": "Fitlife — Everyday Fitness",
+  "short_name": "Fitlife",
+  "description": "A little more movement, every day.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8f6f2",
+  "theme_color": "#f8f6f2",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
